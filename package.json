@@ -1,0 +1,23 @@
+{
+    "name": "301-practice-4",
+    "version": "1.0.0",
+    "description": "Q1) In an express server application, what does dotenv do Dotenv is a simple way to allow you to create secret keys that your application needs to function and keep them from going public",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/obadaalmatrami92/301-practice-4.git"
+    },
+    "keywords": [
+        "obada"
+    ],
+    "author": "obada",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/obadaalmatrami92/301-practice-4/issues"
+    },
+    "homepage": "https://github.com/obadaalmatrami92/301-practice-4#readme"
+}
